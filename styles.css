@@ -14,16 +14,16 @@ h1 {
     font-weight: bolder;
     font-size: 45px;
     background-color: var(--primary-color);
-    padding: 1rem;
+    padding: 0.5rem;
     border: 5px solid black;
 }
 
 textarea {
-    padding: 2rem;
+    padding: 0.5rem;
     margin: 2rem auto;
     display: block;
     width: 40%;
-    height: 15vh;
+    height: 12vh;
 }
 
 #btn-Translate {
@@ -38,16 +38,16 @@ textarea {
 }
 
 #output {
-    padding: 2rem;
+    padding: 0.5rem;
     margin: 2rem auto;
     width: 40%;
-    height: 15vh;
+    height: 12vh;
     border: 1px solid black;
 }
 
 .footer {
     background-color: var(--primary-color);
-    margin: 4rem 0rem 0rem 0rem;
+    margin: 3.5rem 0rem 0rem 0rem;
     padding: 1rem;
     bottom: 0;
     border: 5px solid black;
