@@ -44,3 +44,16 @@ textarea {
     height: 15vh;
     border: 1px solid black;
 }
+
+.footer {
+    background-color: var(--primary-color);
+    margin: 4rem 0rem 0rem 0rem;
+    padding: 1rem;
+    bottom: 0;
+    border: 5px solid black;
+}
+
+.footer-header{
+    font-weight: bold;
+    font-size: large;
+}
